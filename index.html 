@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kitap Web Sitesi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Kitap Web Sitesi</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Hoşgeldiniz!</h2>
+            <p>Bu, kitabınızı tanıtabileceğiniz web sitesidir.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Kitap Web Sitesi</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+<main>
+    <section>
+        <h2>Hoşgeldiniz!</h2>
+        <p>Bu, kitabınızı tanıtabileceğiniz web sitesidir.</p>
+    </section>
+
+    <!-- Kitap Tanıtım Bölümü -->
+    <section>
+        <h2>Kitap Hakkında</h2>
+        <p>Bu kitap, insanların hayatlarını değiştirecek bir hikaye sunuyor. Kitap hakkında daha fazla bilgi almak için aşağıdaki linke tıklayın:</p>
+        <a href="https://www.example.com" target="_blank">Kitap hakkında daha fazla bilgi</a>
+    </section>
+</main>
+<!-- Etkileşimli Buton -->
+<button id="showMessageBtn">Mesaj Göster</button>
+<p id="message" style="display:none;">Bu, bir JavaScript mesajıdır!</p>
