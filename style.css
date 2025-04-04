@@ -87,4 +87,11 @@ a {
 
 a:hover {
     color: #007BFF;
+}body {
+    background-image: url('https://github.com/ceytales/kitapwebsitesi/raw/main/A_digital_image_features_a_dark_background_with_de.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;  /* Yazı rengini beyaz yaparak görselle kontrast sağladık */
 }
+
